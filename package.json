@@ -25,7 +25,7 @@
     "amazon-cognito-identity-js": "^3.2.2",
     "angular-datatables": "^8.0.0",
     "angular-ng-autocomplete": "^2.0.1",
-    "aws-sdk": "^2.621.0",
+    "aws-sdk": "^2.814.0",
     "bootstrap": "^4.4.1",
     "core-js": "^2.5.4",
     "datatables.net": "^1.10.20",
